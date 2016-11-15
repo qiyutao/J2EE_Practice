@@ -41,7 +41,7 @@
 
 >-参考资料：教材例3-23
 
-![](./Register-3/1.png)
+![](./Register-3/1.png) ![](./Register-3/2.png)
 
 ***
 
@@ -50,7 +50,7 @@
 
 >-至少实现十进制、二进制、八进制和十六进制之间的转换
 
-![](./Conversion-4/1.png)
+![](./Conversion-4/1.png) ![](./Conversion-4/2.png)
 
 ***
 
